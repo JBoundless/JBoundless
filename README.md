@@ -1,5 +1,4 @@
 ![bay area tree pic copy](https://user-images.githubusercontent.com/39219944/123734061-7ca3eb00-d851-11eb-80a3-8f3f2f9aefc1.jpg)
-![IMG_8757 copy](https://user-images.githubusercontent.com/39219944/123734067-7e6dae80-d851-11eb-97e4-1e41c6d2aded.jpeg)
 ### Hello World 👋
 I am a high-school student focusing on web design and frontend development from Los Angeles, California.
 <br>
