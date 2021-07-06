@@ -1,12 +1,12 @@
 ![bay area tree pic copy](https://user-images.githubusercontent.com/39219944/123734061-7ca3eb00-d851-11eb-80a3-8f3f2f9aefc1.jpg)
 ### Hello World 👋
-I am a high-school student focusing on web design and frontend development from Los Angeles, California.
+My name is Jordan Pagkalinawan and I'm a high-school student focusing on web design and frontend development from Los Angeles, California.
 <br>
 - 🔭 I’m currently working on improving my skills in React and learning about new emerging frontend frameworks.
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with React Native Navigation.
+- 💬 Ask me about the NBA
 - 📫 How to reach me: Connect with me on LinkedIn
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm the only left-handed cousin on my mom's side of the family.
@@ -20,7 +20,6 @@ I am a high-school student focusing on web design and frontend development from 
 <br>
 ## Knowledge
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <br>
 <br>
 
