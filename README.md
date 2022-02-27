@@ -3,7 +3,7 @@
 My name is Jordan Pagkalinawan and I'm a high-school student focusing on web design and frontend development from Los Angeles, California.
 <br>
 - 🔭 I’m currently working on improving my skills in React and learning about new emerging frontend frameworks.
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Data Visualization with D3.js
 - 👯 I’m looking to collaborate on any fun sports-related projects.
 - 🤔 I’m looking for help with React Native Navigation.
 - 💬 Ask me about the NBA
